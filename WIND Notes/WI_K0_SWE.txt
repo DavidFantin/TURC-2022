@@ -29,17 +29,17 @@ See https://cdaweb.gsfc.nasa.gov/wind_swe_quality.html
 For the complete guide to the quality flag values. 
 
 Data:
-Name:											Data Information:							Data Name:
-WIND Position in GSE Coords							3 comp (X, Y, Z)? 						[SC_pos_gse]
-WIND Position in GSM Coords							3 comp (X, Y, Z)? 						[SC_pos_GSM]
-WIND Radial Distance to Center of Earth					scalar (Distance) 						[SC_pos_R]
-Velocity Quality Flag								0 = OK; 2/130 = Caution; Other = Not Valid 		[QF_V]
-Proton Density Quality Flag							0 = OK; 2/130 = Caution; Other = Not Valid 		[QF_Np]
-Solar Wind Velocity in GSE Coord						(km/s) 3 comp (X, Y, Z)? 					[V_GSE]
-Solar Wind Velocity in GSM Coord						(km/s) 3 comp (X, Y, Z)? 					[V_GSM]
-Ion Bulk Flow Vector in GSE Coord						3 comp (Speed, E-W Flow, N-S Flow) 				[V_GSE_p]
-Ion Bulk Flow Speed GSE Coord 						(log) 								[V_GSE_plog]
-Solar Wind Most Probable Thermal Speed				 	scalar (from sqrt(2K_b*T/M)) 					[THERMAL_SPD]
-Solar Wind Proton Number Density Lin					scalar (linear) 							[Np]
-Solar Wind Proton Number Density Log 					scalar (log) 							[Np_l]
-Ion Dynamic Pressure								scalar (from mNV^2)						[Pressure]
+Name:							Data Information:						Data Name:
+WIND Position in GSE Coords				3 comp (X, Y, Z)? 						[SC_pos_gse]
+WIND Position in GSM Coords				3 comp (X, Y, Z)? 						[SC_pos_GSM]
+WIND Radial Distance to Center of Earth			scalar (Distance) 						[SC_pos_R]
+Velocity Quality Flag					0 = OK; 2/130 = Caution; Other = Not Valid 		        [QF_V]
+Proton Density Quality Flag				0 = OK; 2/130 = Caution; Other = Not Valid 		        [QF_Np]
+Solar Wind Velocity in GSE Coord			(km/s) 3 comp (X, Y, Z)? 					[V_GSE]
+Solar Wind Velocity in GSM Coord			(km/s) 3 comp (X, Y, Z)? 					[V_GSM]
+Ion Bulk Flow Vector in GSE Coord			3 comp (Speed, E-W Flow, N-S Flow) 				[V_GSE_p]
+Ion Bulk Flow Speed GSE Coord 				(log) 								[V_GSE_plog]
+Solar Wind Most Probable Thermal Speed		        scalar (from sqrt(2K_b*T/M)) 					[THERMAL_SPD]
+Solar Wind Proton Number Density Lin		        scalar (linear) 					        [Np]
+Solar Wind Proton Number Density Log 		        scalar (log) 							[Np_l]
+Ion Dynamic Pressure					scalar (from mNV^2)						[Pressure]
