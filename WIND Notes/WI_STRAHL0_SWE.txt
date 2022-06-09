@@ -29,16 +29,16 @@ efficiency and geometric factor.
 The data set reported here contains: f_strahl, f_antistrahl, f_strahl_counts,
 f_antistrahl_counts, phi_strahl, phi_antistrahl, theta, energy.
 
-Name:											Data Information:							Data Name:
+Name:									Data Information:					Data Name:
 Strahl Intensities vs Phi and Theta Angles Log				(Log Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_strahl]
-Strahl Intensities vs Phi and Thet Angles 				(Linear Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_stahl_lin]
+Strahl Intensities vs Phi and Thet Angles 				(Linear Scaled animated gif, (#/{cc*(cm/s)^3}))		 [f_stahl_lin]
 Anti-Strahl Intensities vs Phi and Theta Angles Log			(Log Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_antistrahl]
 Anti-Strahl Intensities vs Phi and Theta Angles Lin			(Linear Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_antistahl_lin]			
-Strahl Detector Count Intesity vs Phi and Theta Angles Log		(Log Scaled animated gif, detector counts)		[f_strahl_counts]
+Strahl Detector Count Intesity vs Phi and Theta Angles Log		(Log Scaled animated gif, detector counts)		 [f_strahl_counts]
 Strahl Detector Count Intensity vs Phi and Theta Angles Lin		(Linear Scaled animated gif, detector counts)		[f_strahl_counts_lin]
-Anti-Strahl Detector Count Intesity vs Phi and Theta Angles Log	(Log Scaled animated gif, detector counts)		[f_antistrahl_counts]
+Anti-Strahl Detector Count Intesity vs Phi and Theta Angles Log	        (Log Scaled animated gif, detector counts)		[f_antistrahl_counts]
 Anti-Strahl Detector Count Intensity vs Phi and Theta Angles Lin	(Linear Scaled animated gif, detector counts)		[f_antistrahl_counts_lin]
-Strahl Phi Angle of electron velocity direction				(GSE)									[phi_strahl]
-Anti-Strahl Phi Angle of electron velocity direction			(GSE)									[phi_antistrahl]
-Strahl Theta Angle of electron velocity direction			(GSE)									[theta]
-Energy of Sampled electrons in distributions				(eV)									[energy]
+Strahl Phi Angle of electron velocity direction				(GSE)							[phi_strahl]
+Anti-Strahl Phi Angle of electron velocity direction			(GSE)							[phi_antistrahl]
+Strahl Theta Angle of electron velocity direction			(GSE)							[theta]
+Energy of Sampled electrons in distributions				(eV)							[energy]
