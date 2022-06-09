@@ -40,20 +40,20 @@ The data set reported here contains: N_elec, NcElec, U_eGSE, UceGSE, P_eGSE,
 T_elec, TcElec, W_elec, WcElec, Te_pal, Te_per, TecPal, TecPer, Te_ani, TecAni,
 and Gyrtrp (as described above).
 
-Name:											Data Information:							Data Name:
-Electron Density									(#/cc)								[N_elec]
+Name:										Data Information:						Data Name:
+Electron Density								(#/cc)								[N_elec]
 Core Electron Density								(#/cc)								[NcElec]
 Electron Bulk Velocity								(km/s) 3 comp(X, Y, Z)?, GSE					[U_eGSE]
-Core Electron Bulk Velocity							(km/s) 3 comp(X, Y, Z)?, GSE					[UceGSE]
-Electron Pressure Tensor							6 comp(Pxx, Pxy, Pxz, Pyy, Pyz, Pzz)?, GSE		[P_eGSE]
-Electron Total Temperature							(K)									[T_elec]
-Core Electron Total Temperature						(K)									[TcElec]
-Electron Average Thermal Energy						(eV)									[W_elec]
-Core Electron Average Thermal Energy					(eV)									[WcElec]
+Core Electron Bulk Velocity					                (km/s) 3 comp(X, Y, Z)?, GSE					[UceGSE]
+Electron Pressure Tensor							6 comp(Pxx, Pxy, Pxz, Pyy, Pyz, Pzz)?, GSE		        [P_eGSE]
+Electron Total Temperature							(K)								[T_elec]
+Core Electron Total Temperature						        (K)								[TcElec]
+Electron Average Thermal Energy						        (eV)								[W_elec]
+Core Electron Average Thermal Energy					        (eV)								[WcElec]
 B-Par Electron Temperature							(wrt B)								[Te_pal]
 B-Perp Electron Temperature							(wrt B)								[Te_per]
-B-Par Core Electron Temperature						(K)									[TecPal]
-B-Perp Core Electron Temperature						(K)									[TecPer]
-Electron Anisotropic Temperature						(Te_perp/Te_par)							[Te_ani]
-Core Electron Anisotropic Temperature					(Te_perp_core/Te_par_core)					[TecAni]
-Electron Gyrotropy								(unitless)								[Gyrtrp]
+B-Par Core Electron Temperature						        (K)							        [TecPal]
+B-Perp Core Electron Temperature						(K)								[TecPer]
+Electron Anisotropic Temperature						(Te_perp/Te_par)						[Te_ani]
+Core Electron Anisotropic Temperature					        (Te_perp_core/Te_par_core)				        [TecAni]
+Electron Gyrotropy								(unitless)							[Gyrtrp]
