@@ -1,0 +1,26 @@
+This file contains an organized list of all instruments and datasets potentially being used.
+
+WIND Spacecraft:
+
+Links:
+WIND Spacecraft:      https://wind.nasa.gov/inst_info.php
+Dataset information:  https://cdaweb.gsfc.nasa.gov/cgi-bin/eval1.cgi
+
+Instruments:
+1: SWE (Solar Wind Experiment)
+2: 3DP (3-Dimensional Plasma Analyzer)
+
+Datasets:
+SWE:
+1: WI_K0_SWE (Key Parameters)                                                   (X)?
+2: WI_H0_SWE (6-12s Solar Wind Electron Moments)                                (USABLE)
+3: WI_H1_SWE (92s Solar Wind Alpha and Proton Anisotropy Analysis)		(X)?
+4: HI_STRAHL0_SWE (Strahl Detector) 						(USABLE)
+5: WI_SW-ION-DIST_SWE-FARADAY (Faraday Cup Orentation and Flux)			(X)?
+6: WI_H3_SWE (9s electron pitch-angle distributions 12s cadence)		(?)
+7: WI_H4_SWE (3s electron pitch-angle distributions 6-12s cadence)	        (?)
+8: WI_H5_SWE (9s electron moments 12s cadence)				        (?)
+9: WI_M0_SWE (9s electron pitch-angle distribution averages)			(?)
+10: WI_M2_SWE (3s electron pitch-angle distribution averages) 			(USABLE)?
+
+3DP:
