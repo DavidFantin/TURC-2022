@@ -73,23 +73,23 @@ the ion density and ion flow speed, respectively. However, the user is strongly
 advised to use the SWE ion key parameters for the bulk plasma density and flow
 speed. 
 
-Name:											Data Information:							Data Name:
-Electron Temperature								Te									[Te]
+Name:										Data Information:						Data Name:
+Electron Temperature								Te								[Te]
 Temperature anisotropy								Te_para/Te_perp							[Te_anisotropy]
 Electron Average Energy								(eV)? (3/2)K_b * Te						[average_energy]
-Principle Axis of Pressure Tensor						unit vector								[pa_press_tensor]
-Pressure Tensor Principle Axis Dot Magnetic Field			unit vector								[pa_dot_B]
+Principle Axis of Pressure Tensor						unit vector						        [pa_press_tensor]
+Pressure Tensor Principle Axis Dot Magnetic Field			        unit vector							[pa_dot_B]
 Electron Heat Flux Magnitude							scalar?								[heat_flux_magn]
 Electron Heat Flux Elevation							degree?								[heat_flux_el]
-Electron Heat Flux Azimuth							degree?								[heat_flux_az]
-Heat Flux dot B									unit vector								[Q_dot_B]
-Spacecraft Position								(GSE)									[sc_position]
+Electron Heat Flux Azimuth							degree?							        [heat_flux_az]
+Heat Flux dot B									unit vector							[Q_dot_B]
+Spacecraft Position								(GSE)								[sc_position]
 Electron Bulk Velocity Magnitude						scalar?								[el_bulk_vel_magn]
 Electron Bulk Velocity Elevation						degree?								[el_bulk_vel_el]
-Electron Bulk Velocity Azimuth						degree?								[el_bulk_vel_az]
-Electron Density									?									[el_density]
-Spacecraft Potential								(V)?									[sc_pot]
-Quality Flag									undefined								[flag]
-Major Frame Record Number							?									[major_fr_rec]
-Major Frame Spin Number								?									[major_fr_spin_number]
+Electron Bulk Velocity Azimuth						        degree?							        [el_bulk_vel_az]
+Electron Density								?								[el_density]
+Spacecraft Potential								(V)?								[sc_pot]
+Quality Flag									undefined							[flag]
+Major Frame Record Number							?								[major_fr_rec]
+Major Frame Spin Number								?								[major_fr_spin_number]
 
