@@ -1,0 +1,44 @@
+WI_STRAHL0_SWE:
+
+Link:
+https://cdaweb.gsfc.nasa.gov/misc/NotesW.html#WI_STRAHL0_SWE
+
+Meta Data (For Data Below):
+https://cdaweb.gsfc.nasa.gov/pub/software/cdawlib/0SKELTABLES/wi_strahl0_swe_00000000_v01.skt
+
+Notes:
+The 2D electron angular distributions included in this data set were measured by
+the Wind/SWE strahl detector (see Ogilvie et al., "SWE, a comprehensive plasma
+instrument for the Wind spacecraft", Space Sci. Rev., 71, 55, 1995).
+Each angular distribution was measured at a single electron energy. The energy
+was selected by applying a voltage between the electrostatic analyzer plates.
+The detector sampled 32 energies between 19 eV and 1238 eV, and during normal
+operation would sweep through these energies one at a time with approximately 12
+second cadence.
+The instrument's 12 anodes are set in a vertical pattern in a plane that
+contains the spacecraft spin axis, spanning a field of view +/-28 degrees
+centered around the ecliptic (with uneven angular spacing between anodes).
+Wind's spin axis is set at a right angle with the ecliptic plane, allowing
+different azimuthal angles to be sampled as the spacecraft spins (3 sec spin
+period). These azimuthal bins have a fixed separation of 3.53 degrees. Each
+strahl (and antistrahl) distribution measured by the spacecraft consists of a
+14x12 angular grid of electron counts, that was measured at a fixed energy
+during a single spacecraft spin. Counts are converted into physical units of f
+(v) (e.g., cm^-6s^3) in the standard fashion by accounting for the detector
+efficiency and geometric factor.
+The data set reported here contains: f_strahl, f_antistrahl, f_strahl_counts,
+f_antistrahl_counts, phi_strahl, phi_antistrahl, theta, energy.
+
+Name:											Data Information:							Data Name:
+Strahl Intensities vs Phi and Theta Angles Log				(Log Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_strahl]
+Strahl Intensities vs Phi and Thet Angles 				(Linear Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_stahl_lin]
+Anti-Strahl Intensities vs Phi and Theta Angles Log			(Log Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_antistrahl]
+Anti-Strahl Intensities vs Phi and Theta Angles Lin			(Linear Scaled animated gif, (#/{cc*(cm/s)^3}))		[f_antistahl_lin]			
+Strahl Detector Count Intesity vs Phi and Theta Angles Log		(Log Scaled animated gif, detector counts)		[f_strahl_counts]
+Strahl Detector Count Intensity vs Phi and Theta Angles Lin		(Linear Scaled animated gif, detector counts)		[f_strahl_counts_lin]
+Anti-Strahl Detector Count Intesity vs Phi and Theta Angles Log	(Log Scaled animated gif, detector counts)		[f_antistrahl_counts]
+Anti-Strahl Detector Count Intensity vs Phi and Theta Angles Lin	(Linear Scaled animated gif, detector counts)		[f_antistrahl_counts_lin]
+Strahl Phi Angle of electron velocity direction				(GSE)									[phi_strahl]
+Anti-Strahl Phi Angle of electron velocity direction			(GSE)									[phi_antistrahl]
+Strahl Theta Angle of electron velocity direction			(GSE)									[theta]
+Energy of Sampled electrons in distributions				(eV)									[energy]
