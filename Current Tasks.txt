@@ -1,0 +1,9 @@
+This file is meant to organize the current objectives/goals of the research
+
+Research Objectives:
+RAW Data Collection and Handling:
+-Read articles to learn about WIND, Solar Wind, VDF's, and other relevant topics
+-Learn about the contents of the database for the WIND satellite to determine which datasets and variables are useful
+-Learn about the GSE and GSM systems
+-Learn more details about the data from the database
+-Create a Python file to collect and write some data from the database into a new file (Cameron)
